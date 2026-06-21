@@ -67,5 +67,7 @@ This project helped me practice:
 - Console output formatting
 
 ## Note
+## Program Output
 
+![Program Output](marksheet-output.png)
 This project was originally developed in February 2025 during my first semester and has been uploaded to GitHub later as part of my programming portfolio and learning journey.
